@@ -2,7 +2,7 @@
 	<head>
 		<meta charset="Utf-8">
 		<meta name="site">
-		
+		<title>Shop</title>
 	</head>
 	<body>
 		<div id="Main">
