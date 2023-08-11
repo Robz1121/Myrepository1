@@ -7,7 +7,7 @@
 		<style>
 			@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200;500&display=swap");
 			* {
-				nargin: 0;
+				margin: 0;
 				padding: 0;
 				box-sizing: border-box;
 			}
@@ -24,7 +24,7 @@
 			}
 			h1 {
 				margin-top: 50px;
-				,margin-bottom: 10px;
+				margin-bottom: 10px;
 			img {
 				width: 50px;
 				margin: 20px auto;
