@@ -26,7 +26,7 @@
 				margin-top: 50px;
 				,margin-bottom: 10px;
 			img {
-				width: 60px;
+				width: 70px;
 				margin: 30px auto;
 			}
 			p {
