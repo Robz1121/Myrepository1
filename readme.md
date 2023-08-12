@@ -26,8 +26,8 @@
 				margin-top: 50px;
 				margin-bottom: 10px;
 			img {
-				width: 40px;
-				margin: 0px;
+				width: 80px;
+				margin: 50px;
 			}
 			p {
 				width: 350px;
