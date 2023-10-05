@@ -53,12 +53,7 @@
 		</style>
 	</head>
 	<body>
-		<div id="main">
-			<h1>Онлайн магазин</h1>
-			<img src="https://cdn-icons-png.flaticon.com/512/3595/3595455.png">
-			<button id="buy">Купить</button>
-			<p>Hi, can you buy this object</p>
-		</div>
+		<p>Привет</p>
 		<script src="https://telegram.org/js/telegram-web-app.js"></script>
 	</body>
 </html>
