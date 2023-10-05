@@ -53,6 +53,7 @@
 		</style>
 	</head>
 	<body>
+ 		<a href='https://google.com'>1</a>
 		<p>Привет</p>
 		<script src="https://telegram.org/js/telegram-web-app.js"></script>
 	</body>
